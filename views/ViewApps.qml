@@ -10,7 +10,7 @@ Rectangle {
     height: parent.height
 
     Label {
-        text: "hello mate"
+        text: "Viewing Apps"
     }
 }
 
