@@ -21,7 +21,7 @@ import Ubuntu.Components 0.1
 import QtQuick.XmlListModel 2.0
 import Ubuntu.Components.ListItems 0.1
 import Ubuntu.Components.Popups 0.1
-import "views" as Components
+//import "views" as Components -> Not implemented yet
 
 
 MainView {
