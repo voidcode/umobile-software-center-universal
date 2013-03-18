@@ -1,0 +1,11 @@
+<?xml descsion="1.0" encoding="utf-8"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" descsion="2.0">
+
+<sections>
+	<section name="Educational Software" imgsrc="calculator-app-icon.png" desc="Useful tools for homework" />
+	<section name="Audio and Video" imgsrc="camera-app-icon.png" desc="All things multimedia" />
+	<section name="Productivity" imgsrc="gallery-app-icon.png" desc="Office Suites, To Do lists and more." />
+	<section name="Games" imgsrc="simple_icon_facebook.png" desc="Games for kids and adults of all ages" />
+</sections>
+</rss>
+

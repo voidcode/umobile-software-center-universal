@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+
+<sections>
+	<section name="Ubuntu Phone Calculator" imgsrc="calculator-app-icon.png" ver="Version: 0.18r2" />
+	<section name="Ubuntu Phone Camera" imgsrc="camera-app-icon.png" ver="Version: 0.1r18" />
+	<section name="Ubuntu Phone Gallery" imgsrc="gallery-app-icon.png" ver="Version: 0.10r1" />
+	<section name="Facebook Social" imgsrc="simple_icon_facebook.png" ver="Version: 0.15r99" />
+	<section name="Ubuntu Clock App" imgsrc="clock-app-icon.png" ver="Version: 0.99r2" />
+	<section name="Google Mail for Ubuntu" imgsrc="mail-app-icon.png" ver="Version: 1.5r55" />
+	<section name="Google Maps for Ubuntu" imgsrc="maps-app-icon.png" ver="Version: 2.0" />
+	<section name="Tweets BETA" imgsrc="android-twitter-96x97.png" ver="Version: 0.13r1" />
+	<section name="Angry Birds" imgsrc="angry-birds.png" ver="Version: 0.01" />
+	<section name="Ubuntu One" imgsrc="ubuntuone-app-icon.png" ver="Version: 0.9r4" />
+	<section name="Go Telephone Book" imgsrc="telephony-app-icon.png" ver="Version: 1.4" />
+</sections>
+</rss>
+
